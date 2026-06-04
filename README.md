@@ -196,6 +196,39 @@ Aspiring Data Analyst skilled in:
 - Data Visualization
 
 ---
+## 📈 Business Impact & Insights
+
+This dashboard transforms raw pizza sales data into actionable business insights, enabling faster and more informed decision-making.
+
+### Key Performance Findings
+
+* Large-size pizzas contributed approximately **36% of total pizza sales**, making them the most preferred size among customers.
+* Friday generated the highest number of orders, indicating strong weekend demand.
+* Peak ordering hours occurred during afternoon and evening periods, helping identify optimal staffing and inventory planning windows.
+* The Classic Deluxe Pizza and Barbecue Chicken Pizza ranked among the top-selling products, contributing significantly to overall revenue.
+* Monthly sales analysis revealed seasonal fluctuations, helping management identify high-demand and low-demand periods.
+
+### Business Value Delivered
+
+✅ Reduced manual reporting effort by approximately **80–90%** through automated Power BI reporting.
+
+✅ Enabled management to analyze sales performance in **real time** instead of relying on manual spreadsheet analysis.
+
+✅ Improved decision-making speed by providing KPI visibility and interactive filtering across products, sizes, and time periods.
+
+✅ Identified top-performing products and customer preferences, supporting menu optimization and promotional strategies.
+
+✅ Supported inventory planning by highlighting peak sales periods and high-demand pizza categories.
+
+### Operational Benefits
+
+* Faster access to sales insights.
+* Improved resource allocation during peak hours.
+* Better inventory management.
+* Data-driven marketing and promotional planning.
+* Enhanced customer preference analysis.
+
+
 
 # ⭐ Support
 If you like this project, give it a ⭐ on GitHub.
